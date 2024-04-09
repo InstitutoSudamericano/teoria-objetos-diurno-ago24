@@ -1,0 +1,8 @@
+A. ¿Cuál es el propósito principal de utilizar Express.js en una aplicación Node.js?
+ El propósito principal de utilizar Express.js en una aplicación Node.js es facilitar la creación de servidores web y el manejo de solicitudes y respuestas HTTP. Express proporciona una capa de abstracción sobre el servidor HTTP nativo de Node.js, lo que simplifica la definición de rutas, el manejo de middleware y la implementación de la lógica de la aplicación.
+
+B. En Django, ¿cuál es el propósito de un archivo urls.py en una aplicación?
+En Django, el archivo urls.py se utiliza para mapear las URL entrantes a las vistas correspondientes. Define las rutas de la aplicación y especifica qué función de vista o clase de vista debe manejar cada ruta. Esto ayuda a organizar y estructurar las URL de la aplicación de manera clara y mantenible.
+
+C. ¿Qué es un controlador en NestJS y cómo se utiliza para manejar las solicitudes HTTP?
+En NestJS, un controlador es una clase decorada con @Controller() que define métodos de manejo de solicitudes HTTP para diferentes rutas. Estos métodos, decorados con los verbos HTTP correspondientes (@Get(), @Post(), etc.), son responsables de procesar las solicitudes entrantes y devolver las respuestas adecuadas. Los controladores en NestJS ayudan a organizar y modularizar el código relacionado con las rutas y las operaciones HTTP.

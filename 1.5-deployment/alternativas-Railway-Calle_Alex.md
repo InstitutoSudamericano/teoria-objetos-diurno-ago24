@@ -1,5 +1,7 @@
 # Alternativas a Railway para desplegar aplicaciones Node.js
 
+youtube:"<https://youtu.be/GrHFtOgCNNQ>"
+
 Cuando se trata de desplegar una aplicación Node.js, Railway es una opción popular. Sin embargo, existen otras alternativas disponibles en el mercado que pueden ayudarte a alcanzar tus objetivos de despliegue. He aquí algunas de las más destacadas:
 
 ## 1. Vercel

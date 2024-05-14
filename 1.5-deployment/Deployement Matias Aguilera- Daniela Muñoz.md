@@ -10,3 +10,7 @@ En resumen, la automatización de despliegues es una práctica fundamental en en
 ### Bibliografía
 
 Kim, G., Behr, K., & Spafford, G. (2013). The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win. IT Revolution Press.UntitledUntitled
+
+Link Youtube:
+Matias Aguilera
+https://youtu.be/JGMU7PTnS_I

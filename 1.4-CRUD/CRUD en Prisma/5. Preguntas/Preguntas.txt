@@ -1,0 +1,23 @@
+David Correa
+
+Pregunta 1: ¿Cuál es el propósito principal de un DTO en una aplicación NestJS?
+a) Representar los controladores de la aplicación
+b) Transferir datos entre diferentes capas de la aplicación
+c) Definir la estructura de las bases de datos
+
+Respuesta correcta: b) Porque  los DTOs suelen utilizarse para definir la estructura de los datos que se intercambian entre los controladores y los servicios de la aplicación. Esto promueve una separación clara de las responsabilidades y ayuda a mantener un acoplamiento bajo entre las diferentes partes del sistema.
+
+
+Pregunta 2: ¿Qué indica el modificador required: false en un decorador @ApiProperty() de un DTO?
+a) Indica que la propiedad es obligatoria y no puede ser omitida
+b) Indica que la propiedad es opcional y puede ser omitida
+c) Indica que la propiedad tiene un valor por defecto
+
+Respuesta correcta: b) Porque esto proporciona flexibilidad en el intercambio de datos sin comprometer la integridad de la estructura del objeto.
+
+Pregunta 3: ¿Qué indica el modificador required: false en un decorador @ApiProperty() de un DTO?
+a) Indica que la propiedad es obligatoria y no puede ser omitida
+b) Indica que la propiedad es opcional y puede ser omitida
+c) Indica que la propiedad tiene un valor por defecto
+
+Respuesta correcta: b) Porque esto proporciona flexibilidad en el intercambio de datos sin comprometer la integridad de la estructura del objeto.

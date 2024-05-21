@@ -1,7 +1,8 @@
 # Decorador "@injectable()"
 
 by: Calle Alex, Tinoco Luis
-youtube: "<https://youtu.be/DVZZJ7PLFTA>"
+
+youtube: "<https://youtu.be/IPMr4YlENRw>"
 
 En NestJS, los decoradores se utilizan para definir componentes, servicios, controladores, etc. y permiten modularizar las aplicaciones aplicando conceptos de orientación a objetos y programación funcional y reactiva. Además, los decoradores en NestJS permiten la inyección de dependencias, la definición de rutas y la generación automática de la documentación en Swagger (OpenAPI).
 
